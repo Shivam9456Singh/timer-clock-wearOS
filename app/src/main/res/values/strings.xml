@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">WearOsStopWatch</string>
-    <!--
-    This string is used for square devices and overridden by hello_world in
-    values-round/strings.xml for round devices.
-    -->
+    <string name="app_name" translatable="false">WearOsStopWatch</string>
+    <string name="channel_name" translatable="false">Timer Notifications</string>
+    <string name="channel_description" translatable="false">Notifications for timer completion</string>
+    <string name="notification_title" translatable="false">Timer Completed</string>
+    <string name="notification_text" translatable="false">Your timer has finished.</string>
     <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+
 </resources>
